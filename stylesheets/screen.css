@@ -144,7 +144,8 @@ header {
   top: 38px;
 }
 
-header span.ribbon-inner {
+header span.ribbon-inner 
+{text-align: center;
   position: relative;
   display: block;
   background-color: #cd596b;
